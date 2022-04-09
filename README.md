@@ -1,4 +1,4 @@
-# 1st PUC
+# 1st PUC Question Bank (Chapterwise with answers)
 |Subject | Link|
 |-|-|
 |Physics| [README](1stPUC/Physics/QuestionBank/README.md)|
@@ -6,7 +6,7 @@
 |Maths| [README](1stPUC/Maths/QuestionBank/README.md)|
 |Biology| [README](1stPUC/Biology/QuestionBank/README.md)|
 
-# 2nd PUC
+# 2nd PUC Question Bank (Chapterwise with answers)
 |Subject | Link|
 |-|-|
 |Physics| [README](2ndPUC/Physics/QuestionBank/README.md)|
